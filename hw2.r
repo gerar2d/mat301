@@ -26,3 +26,5 @@ quantile(y, probs = c(.16,.92)) #16% , 92%
 mode(y) #mid point
 table(y) #19 table for mode
 hist(y) #histogram plot
+
+summary(y)
